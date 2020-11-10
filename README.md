@@ -1,11 +1,12 @@
 # cooc_graph
 
 1. Web crawler & scraping
-2. NLP Thai
-3. Create bigram cooccurence matrix
-4. Create graph
-5. DRMABS Algorithm<br>
- 5.1 Find submarkets<br>
- 5.2 Map submarket globally<br>
- 5.3 Map product locally, optimized globally<br>
- 5.4 Add asymmetry<br>
+2. NLP Thai Pre-train
+3. NLP Thai Post-train
+4. Create Bag-of-word
+5. Create cooccurrence matrix
+6. Robustness check
+7. T-SNE
+8. Create network graph
+9. Find community
+10. Validate with external
