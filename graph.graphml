@@ -1,0 +1,757 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="ซีพีเมจิ"/>
+<node id="7-Eleven"/>
+<node id="ขวด"/>
+<node id="ขาย"/>
+<node id="นม"/>
+<node id="รสหวาน"/>
+<node id="กาแฟ"/>
+<node id="ช็อกโกแลต"/>
+<node id="ยี่ห้อ"/>
+<node id="ไขมัน 0%"/>
+<node id="ไขมันต่ำ"/>
+<node id="หมดอายุ"/>
+<node id="แนะนำ"/>
+<node id="เด็ก"/>
+<node id="กลิ่น"/>
+<node id="กาแฟสด"/>
+<node id="ต้ม"/>
+<node id="นมสด"/>
+<node id="รสชาติ"/>
+<node id="ส่วนผสม"/>
+<node id="สูง"/>
+<node id="โปรตีน"/>
+<node id="หวาน"/>
+<node id="หอม"/>
+<node id="ไทยเดนมาร์ค"/>
+<node id="ชง"/>
+<node id="อร่อย"/>
+<node id="ดื่มนม"/>
+<node id="นมโค"/>
+<node id="นมกล่อง"/>
+<node id="นมฟรีแลคโตส"/>
+<node id="รสจืด"/>
+<node id="ลูก"/>
+<node id="น้ำ"/>
+<node id="สารอาหาร"/>
+<node id="ท้องเสีย"/>
+<node id="น้ำตาล"/>
+<node id="กล่อง"/>
+<node id="เท"/>
+<node id="เมจิโกลด์"/>
+<node id="ชา"/>
+<node id="ดัชมิลล์"/>
+<node id="ลอง"/>
+<node id="ผสม"/>
+<node id="ราคาถูก"/>
+<node id="คุณภาพ"/>
+<node id="นมผง"/>
+<node id="หาซื้อ"/>
+<node id="จิตรลดา"/>
+<node id="เมล่อน"/>
+<node id="ไม่ชอบ"/>
+<node id="อาหาร"/>
+<node id="เวย์โปรตีน"/>
+<node id="แคลเซียม"/>
+<node id="ท้อง"/>
+<node id="ออกกำลังกาย"/>
+<node id="ไขมัน"/>
+<node id="พลังงาน"/>
+<node id="ผลิต"/>
+<node id="แม่"/>
+<node id="ชิม"/>
+<node id="ขนม"/>
+<node id="ขนมปัง"/>
+<node id="อเมซอน"/>
+<node id="ลาเต้"/>
+<node id="เข้มข้น"/>
+<node id="ชงกาแฟ"/>
+<node id="ฟองนม"/>
+<node id="บาริสต้า"/>
+<node id="นมขวด"/>
+<node id="ฟอง"/>
+<node id="ครีมเทียม"/>
+<node id="พาสเจอร์ไรส์"/>
+<node id="โฟร์โมสต์"/>
+<node id="ตู้เย็น"/>
+<node id="วันหมดอายุ"/>
+<node id="กล้ามเนื้อ"/>
+<node id="ชาเขียว"/>
+<node id="ประโยชน์"/>
+<node id="โภชนาการ"/>
+<node id="คาว"/>
+<node id="ร้านกาแฟ"/>
+<node id="สะดวก"/>
+<node id="แกลลอน"/>
+<node id="uht"/>
+<node id="แถม"/>
+<node id="ไม่อร่อย"/>
+<node id="น้ำนม"/>
+<node id="ห้างสรรพสินค้า"/>
+<node id="น้ำเต้าหู้"/>
+<node id="หนองโพ"/>
+<node id="มีประโยชน์"/>
+<node id="นมถั่วเหลือง"/>
+<node id="ไฮโปรตีน"/>
+<node id="เปรี้ยว"/>
+<node id="แอลคานีทีน"/>
+<node id="รสกาแฟ"/>
+<node id="ถูกปาก"/>
+<node id="โชคชัย"/>
+<node id="รสธรรมชาติ"/>
+<node id="แดรี่โฮม"/>
+<node id="เอ็มมิลค์"/>
+<node id="นมแพะ"/>
+<node id="แพ้"/>
+<node id="โรงเรียน"/>
+<node id="อาหารเสริม"/>
+<node id="ขับถ่าย"/>
+<node id="น้ำหนัก"/>
+<node id="วิตามิน"/>
+<node id="สุขภาพ"/>
+<node id="ลูกสาว"/>
+<node id="ลูกชาย"/>
+<node id="คุณแม่"/>
+<node id="ผลไม้"/>
+<node id="อัลมอนด์"/>
+<node id="แช่เย็น"/>
+<node id="แช่"/>
+<node id="แข็งแรง"/>
+<node id="โรงงาน"/>
+<node id="หลอด"/>
+<node id="บูด"/>
+<node id="โอวัลติน"/>
+<node id="โคนม"/>
+<node id="ฟิต"/>
+<node id="บรรจุภัณฑ์"/>
+<node id="อาเจียน"/>
+<node id="นมแม่"/>
+<node id="เก็บรักษา"/>
+<node id="ท้องตลาด"/>
+<node id="คุณหมอ"/>
+<node id="ยูเอชที"/>
+<node id="โอเมก้า"/>
+<node id="มีลูก"/>
+<node id="ท้องผูก"/>
+<node id="ผิดปกติ"/>
+<node id="พระราชดำริ"/>
+<node id="แบคทีเรีย"/>
+<node id="แลคโตส"/>
+<node id="เหม็น"/>
+<node id="คาร์โบไฮเดรต"/>
+<node id="แคลอรี่"/>
+<node id="โกโก้"/>
+<node id="ข้าวโพด"/>
+<node id="แป้ง"/>
+<node id="มอคค่า"/>
+<node id="ลดความอ้วน"/>
+<node id="ติดใจ"/>
+<node id="ความแตกต่าง"/>
+<node id="เล่นกล้าม"/>
+<node id="ลดราคา"/>
+<node id="ลดน้ำหนัก"/>
+<node id="โซเดียม"/>
+<node id="ไข่ต้ม"/>
+<node id="คุ้มค่า"/>
+<node id="มอลต์"/>
+<node id="บำรุง"/>
+<node id="คอเลสเตอรอล"/>
+<node id="ความคุ้มค่า"/>
+<node id="รสกล้วย"/>
+<node id="ความสูง"/>
+<node id="กล้วยหอม"/>
+<node id="ไข่"/>
+<node id="ไอศกรีม"/>
+<node id="ให้นม"/>
+<node id="โปรโมชั่น"/>
+<node id="กล้วย"/>
+<node id="เบาหวาน"/>
+<node id="สะอาด"/>
+<node id="ออร์แกนิค"/>
+<node id="ตั้งครรภ์"/>
+<node id="ลูกเดือย"/>
+<node id="เนย"/>
+<node id="ธาตุอาหาร"/>
+<node id="ผู้สูงอายุ"/>
+<node id="เซ็นทรัล"/>
+<node id="โครงการหลวง"/>
+<node id="มะเร็ง"/>
+<node id="หายาก"/>
+<node id="ฮอร์โมน"/>
+<node id="ฟันผุ"/>
+<node id="สารเคมี"/>
+<node id="กลาสเฟด"/>
+<node id="แอนตี้ไบโอติก"/>
+<node id="หลังอาหาร"/>
+<node id="ปวดท้อง"/>
+<node id="ทำอาหาร"/>
+<node id="เพาะกาย"/>
+<node id="ท้องว่าง"/>
+<node id="ลำไส้"/>
+<node id="ท้องอืด"/>
+<node id="ปริมาตร"/>
+<node id="แพ้นม"/>
+<node id="คลอดลูก"/>
+<node id="ชาไทย"/>
+<node id="ซากุระ"/>
+<node id="ฝากท้อง"/>
+<edge source="ซีพีเมจิ" target="7-Eleven"/>
+<edge source="ซีพีเมจิ" target="ขวด"/>
+<edge source="ซีพีเมจิ" target="ขาย"/>
+<edge source="ซีพีเมจิ" target="นม"/>
+<edge source="ซีพีเมจิ" target="รสหวาน"/>
+<edge source="ซีพีเมจิ" target="กาแฟ"/>
+<edge source="ซีพีเมจิ" target="ช็อกโกแลต"/>
+<edge source="ซีพีเมจิ" target="ยี่ห้อ"/>
+<edge source="ซีพีเมจิ" target="ไขมัน 0%"/>
+<edge source="ซีพีเมจิ" target="ไขมันต่ำ"/>
+<edge source="ซีพีเมจิ" target="หมดอายุ"/>
+<edge source="ซีพีเมจิ" target="แนะนำ"/>
+<edge source="ซีพีเมจิ" target="เด็ก"/>
+<edge source="ซีพีเมจิ" target="กลิ่น"/>
+<edge source="ซีพีเมจิ" target="กาแฟสด"/>
+<edge source="ซีพีเมจิ" target="ต้ม"/>
+<edge source="ซีพีเมจิ" target="นมสด"/>
+<edge source="ซีพีเมจิ" target="รสชาติ"/>
+<edge source="ซีพีเมจิ" target="ส่วนผสม"/>
+<edge source="ซีพีเมจิ" target="สูง"/>
+<edge source="ซีพีเมจิ" target="โปรตีน"/>
+<edge source="ซีพีเมจิ" target="หวาน"/>
+<edge source="ซีพีเมจิ" target="หอม"/>
+<edge source="ซีพีเมจิ" target="ไทยเดนมาร์ค"/>
+<edge source="ซีพีเมจิ" target="ชง"/>
+<edge source="ซีพีเมจิ" target="อร่อย"/>
+<edge source="ซีพีเมจิ" target="ดื่มนม"/>
+<edge source="ซีพีเมจิ" target="นมโค"/>
+<edge source="ซีพีเมจิ" target="นมกล่อง"/>
+<edge source="ซีพีเมจิ" target="นมฟรีแลคโตส"/>
+<edge source="ซีพีเมจิ" target="รสจืด"/>
+<edge source="ซีพีเมจิ" target="ลูก"/>
+<edge source="ซีพีเมจิ" target="น้ำ"/>
+<edge source="ซีพีเมจิ" target="สารอาหาร"/>
+<edge source="ซีพีเมจิ" target="ท้องเสีย"/>
+<edge source="ซีพีเมจิ" target="น้ำตาล"/>
+<edge source="ซีพีเมจิ" target="กล่อง"/>
+<edge source="ซีพีเมจิ" target="เท"/>
+<edge source="ซีพีเมจิ" target="เมจิโกลด์"/>
+<edge source="ซีพีเมจิ" target="ชา"/>
+<edge source="ซีพีเมจิ" target="ดัชมิลล์"/>
+<edge source="ซีพีเมจิ" target="ลอง"/>
+<edge source="ซีพีเมจิ" target="ผสม"/>
+<edge source="ซีพีเมจิ" target="ราคาถูก"/>
+<edge source="ซีพีเมจิ" target="คุณภาพ"/>
+<edge source="ซีพีเมจิ" target="นมผง"/>
+<edge source="ซีพีเมจิ" target="หาซื้อ"/>
+<edge source="ซีพีเมจิ" target="จิตรลดา"/>
+<edge source="ซีพีเมจิ" target="เมล่อน"/>
+<edge source="ซีพีเมจิ" target="ไม่ชอบ"/>
+<edge source="ซีพีเมจิ" target="อาหาร"/>
+<edge source="ซีพีเมจิ" target="เวย์โปรตีน"/>
+<edge source="ซีพีเมจิ" target="แคลเซียม"/>
+<edge source="ซีพีเมจิ" target="ท้อง"/>
+<edge source="ซีพีเมจิ" target="ออกกำลังกาย"/>
+<edge source="ซีพีเมจิ" target="ไขมัน"/>
+<edge source="ซีพีเมจิ" target="พลังงาน"/>
+<edge source="ซีพีเมจิ" target="ผลิต"/>
+<edge source="ซีพีเมจิ" target="แม่"/>
+<edge source="ซีพีเมจิ" target="ชิม"/>
+<edge source="ซีพีเมจิ" target="ขนม"/>
+<edge source="ซีพีเมจิ" target="ขนมปัง"/>
+<edge source="ซีพีเมจิ" target="อเมซอน"/>
+<edge source="ซีพีเมจิ" target="ลาเต้"/>
+<edge source="ซีพีเมจิ" target="เข้มข้น"/>
+<edge source="ซีพีเมจิ" target="ชงกาแฟ"/>
+<edge source="ซีพีเมจิ" target="ฟองนม"/>
+<edge source="ซีพีเมจิ" target="บาริสต้า"/>
+<edge source="ซีพีเมจิ" target="นมขวด"/>
+<edge source="ซีพีเมจิ" target="ฟอง"/>
+<edge source="ซีพีเมจิ" target="ครีมเทียม"/>
+<edge source="ซีพีเมจิ" target="พาสเจอร์ไรส์"/>
+<edge source="ซีพีเมจิ" target="โฟร์โมสต์"/>
+<edge source="ซีพีเมจิ" target="ตู้เย็น"/>
+<edge source="ซีพีเมจิ" target="วันหมดอายุ"/>
+<edge source="ซีพีเมจิ" target="กล้ามเนื้อ"/>
+<edge source="ซีพีเมจิ" target="ชาเขียว"/>
+<edge source="ซีพีเมจิ" target="ประโยชน์"/>
+<edge source="ซีพีเมจิ" target="โภชนาการ"/>
+<edge source="ซีพีเมจิ" target="คาว"/>
+<edge source="ซีพีเมจิ" target="ร้านกาแฟ"/>
+<edge source="ซีพีเมจิ" target="สะดวก"/>
+<edge source="ซีพีเมจิ" target="แกลลอน"/>
+<edge source="ซีพีเมจิ" target="uht"/>
+<edge source="ซีพีเมจิ" target="แถม"/>
+<edge source="ซีพีเมจิ" target="ไม่อร่อย"/>
+<edge source="ซีพีเมจิ" target="น้ำนม"/>
+<edge source="ซีพีเมจิ" target="ห้างสรรพสินค้า"/>
+<edge source="ซีพีเมจิ" target="น้ำเต้าหู้"/>
+<edge source="ซีพีเมจิ" target="หนองโพ"/>
+<edge source="ซีพีเมจิ" target="มีประโยชน์"/>
+<edge source="ซีพีเมจิ" target="นมถั่วเหลือง"/>
+<edge source="ซีพีเมจิ" target="ไฮโปรตีน"/>
+<edge source="ซีพีเมจิ" target="เปรี้ยว"/>
+<edge source="ซีพีเมจิ" target="แอลคานีทีน"/>
+<edge source="ซีพีเมจิ" target="รสกาแฟ"/>
+<edge source="ซีพีเมจิ" target="ถูกปาก"/>
+<edge source="ซีพีเมจิ" target="โชคชัย"/>
+<edge source="ซีพีเมจิ" target="รสธรรมชาติ"/>
+<edge source="ซีพีเมจิ" target="แดรี่โฮม"/>
+<edge source="ซีพีเมจิ" target="เอ็มมิลค์"/>
+<edge source="7-Eleven" target="ไทยเดนมาร์ค"/>
+<edge source="7-Eleven" target="ดัชมิลล์"/>
+<edge source="7-Eleven" target="โฟร์โมสต์"/>
+<edge source="ขวด" target="ไทยเดนมาร์ค"/>
+<edge source="ขวด" target="ดัชมิลล์"/>
+<edge source="ขวด" target="โฟร์โมสต์"/>
+<edge source="ขวด" target="โชคชัย"/>
+<edge source="ขวด" target="เอ็มมิลค์"/>
+<edge source="ขาย" target="ไทยเดนมาร์ค"/>
+<edge source="ขาย" target="ดัชมิลล์"/>
+<edge source="ขาย" target="โฟร์โมสต์"/>
+<edge source="ขาย" target="โชคชัย"/>
+<edge source="นม" target="ไทยเดนมาร์ค"/>
+<edge source="นม" target="ดัชมิลล์"/>
+<edge source="นม" target="โฟร์โมสต์"/>
+<edge source="นม" target="โชคชัย"/>
+<edge source="รสหวาน" target="ไทยเดนมาร์ค"/>
+<edge source="รสหวาน" target="ดัชมิลล์"/>
+<edge source="รสหวาน" target="โฟร์โมสต์"/>
+<edge source="รสหวาน" target="โชคชัย"/>
+<edge source="กาแฟ" target="ดัชมิลล์"/>
+<edge source="กาแฟ" target="โฟร์โมสต์"/>
+<edge source="ช็อกโกแลต" target="ไทยเดนมาร์ค"/>
+<edge source="ช็อกโกแลต" target="ดัชมิลล์"/>
+<edge source="ช็อกโกแลต" target="โฟร์โมสต์"/>
+<edge source="ยี่ห้อ" target="ไทยเดนมาร์ค"/>
+<edge source="ยี่ห้อ" target="ดัชมิลล์"/>
+<edge source="ยี่ห้อ" target="โฟร์โมสต์"/>
+<edge source="ยี่ห้อ" target="โชคชัย"/>
+<edge source="ยี่ห้อ" target="เอ็มมิลค์"/>
+<edge source="ไขมัน 0%" target="ดัชมิลล์"/>
+<edge source="ไขมัน 0%" target="โฟร์โมสต์"/>
+<edge source="ไขมัน 0%" target="เอ็มมิลค์"/>
+<edge source="ไขมันต่ำ" target="ไทยเดนมาร์ค"/>
+<edge source="ไขมันต่ำ" target="ดัชมิลล์"/>
+<edge source="ไขมันต่ำ" target="โฟร์โมสต์"/>
+<edge source="หมดอายุ" target="ไทยเดนมาร์ค"/>
+<edge source="หมดอายุ" target="ดัชมิลล์"/>
+<edge source="หมดอายุ" target="โฟร์โมสต์"/>
+<edge source="หมดอายุ" target="เอ็มมิลค์"/>
+<edge source="แนะนำ" target="ไทยเดนมาร์ค"/>
+<edge source="แนะนำ" target="ดัชมิลล์"/>
+<edge source="แนะนำ" target="โฟร์โมสต์"/>
+<edge source="เด็ก" target="ไทยเดนมาร์ค"/>
+<edge source="เด็ก" target="ดัชมิลล์"/>
+<edge source="เด็ก" target="โฟร์โมสต์"/>
+<edge source="กลิ่น" target="ไทยเดนมาร์ค"/>
+<edge source="กลิ่น" target="ดัชมิลล์"/>
+<edge source="กลิ่น" target="โฟร์โมสต์"/>
+<edge source="ต้ม" target="โฟร์โมสต์"/>
+<edge source="นมสด" target="ไทยเดนมาร์ค"/>
+<edge source="นมสด" target="ดัชมิลล์"/>
+<edge source="นมสด" target="โฟร์โมสต์"/>
+<edge source="นมสด" target="โชคชัย"/>
+<edge source="รสชาติ" target="ไทยเดนมาร์ค"/>
+<edge source="รสชาติ" target="ดัชมิลล์"/>
+<edge source="รสชาติ" target="โฟร์โมสต์"/>
+<edge source="รสชาติ" target="โชคชัย"/>
+<edge source="รสชาติ" target="เอ็มมิลค์"/>
+<edge source="ส่วนผสม" target="ไทยเดนมาร์ค"/>
+<edge source="ส่วนผสม" target="ดัชมิลล์"/>
+<edge source="ส่วนผสม" target="โฟร์โมสต์"/>
+<edge source="สูง" target="ไทยเดนมาร์ค"/>
+<edge source="สูง" target="ดัชมิลล์"/>
+<edge source="สูง" target="โฟร์โมสต์"/>
+<edge source="โปรตีน" target="ไทยเดนมาร์ค"/>
+<edge source="โปรตีน" target="ดัชมิลล์"/>
+<edge source="โปรตีน" target="โฟร์โมสต์"/>
+<edge source="หวาน" target="ไทยเดนมาร์ค"/>
+<edge source="หวาน" target="ดัชมิลล์"/>
+<edge source="หวาน" target="โฟร์โมสต์"/>
+<edge source="หวาน" target="โชคชัย"/>
+<edge source="หวาน" target="เอ็มมิลค์"/>
+<edge source="หอม" target="ไทยเดนมาร์ค"/>
+<edge source="หอม" target="ดัชมิลล์"/>
+<edge source="หอม" target="โฟร์โมสต์"/>
+<edge source="หอม" target="โชคชัย"/>
+<edge source="หอม" target="แดรี่โฮม"/>
+<edge source="หอม" target="เอ็มมิลค์"/>
+<edge source="ไทยเดนมาร์ค" target="ชง"/>
+<edge source="ไทยเดนมาร์ค" target="อร่อย"/>
+<edge source="ไทยเดนมาร์ค" target="ดื่มนม"/>
+<edge source="ไทยเดนมาร์ค" target="นมโค"/>
+<edge source="ไทยเดนมาร์ค" target="นมกล่อง"/>
+<edge source="ไทยเดนมาร์ค" target="รสจืด"/>
+<edge source="ไทยเดนมาร์ค" target="ลูก"/>
+<edge source="ไทยเดนมาร์ค" target="นมแพะ"/>
+<edge source="ไทยเดนมาร์ค" target="น้ำ"/>
+<edge source="ไทยเดนมาร์ค" target="สารอาหาร"/>
+<edge source="ไทยเดนมาร์ค" target="แพ้"/>
+<edge source="ไทยเดนมาร์ค" target="โรงเรียน"/>
+<edge source="ไทยเดนมาร์ค" target="ท้องเสีย"/>
+<edge source="ไทยเดนมาร์ค" target="น้ำตาล"/>
+<edge source="ไทยเดนมาร์ค" target="กล่อง"/>
+<edge source="ไทยเดนมาร์ค" target="เท"/>
+<edge source="ไทยเดนมาร์ค" target="ดัชมิลล์"/>
+<edge source="ไทยเดนมาร์ค" target="ลอง"/>
+<edge source="ไทยเดนมาร์ค" target="ผสม"/>
+<edge source="ไทยเดนมาร์ค" target="ราคาถูก"/>
+<edge source="ไทยเดนมาร์ค" target="คุณภาพ"/>
+<edge source="ไทยเดนมาร์ค" target="นมผง"/>
+<edge source="ไทยเดนมาร์ค" target="หาซื้อ"/>
+<edge source="ไทยเดนมาร์ค" target="จิตรลดา"/>
+<edge source="ไทยเดนมาร์ค" target="ไม่ชอบ"/>
+<edge source="ไทยเดนมาร์ค" target="อาหาร"/>
+<edge source="ไทยเดนมาร์ค" target="อาหารเสริม"/>
+<edge source="ไทยเดนมาร์ค" target="ขับถ่าย"/>
+<edge source="ไทยเดนมาร์ค" target="แคลเซียม"/>
+<edge source="ไทยเดนมาร์ค" target="ท้อง"/>
+<edge source="ไทยเดนมาร์ค" target="น้ำหนัก"/>
+<edge source="ไทยเดนมาร์ค" target="ออกกำลังกาย"/>
+<edge source="ไทยเดนมาร์ค" target="วิตามิน"/>
+<edge source="ไทยเดนมาร์ค" target="ไขมัน"/>
+<edge source="ไทยเดนมาร์ค" target="สุขภาพ"/>
+<edge source="ไทยเดนมาร์ค" target="พลังงาน"/>
+<edge source="ไทยเดนมาร์ค" target="ผลิต"/>
+<edge source="ไทยเดนมาร์ค" target="ลูกสาว"/>
+<edge source="ไทยเดนมาร์ค" target="แม่"/>
+<edge source="ไทยเดนมาร์ค" target="ลูกชาย"/>
+<edge source="ไทยเดนมาร์ค" target="คุณแม่"/>
+<edge source="ไทยเดนมาร์ค" target="ชิม"/>
+<edge source="ไทยเดนมาร์ค" target="ขนม"/>
+<edge source="ไทยเดนมาร์ค" target="ผลไม้"/>
+<edge source="ไทยเดนมาร์ค" target="อัลมอนด์"/>
+<edge source="ไทยเดนมาร์ค" target="แช่เย็น"/>
+<edge source="ไทยเดนมาร์ค" target="เข้มข้น"/>
+<edge source="ไทยเดนมาร์ค" target="แช่"/>
+<edge source="ไทยเดนมาร์ค" target="พาสเจอร์ไรส์"/>
+<edge source="ไทยเดนมาร์ค" target="โฟร์โมสต์"/>
+<edge source="ไทยเดนมาร์ค" target="ตู้เย็น"/>
+<edge source="ไทยเดนมาร์ค" target="วันหมดอายุ"/>
+<edge source="ไทยเดนมาร์ค" target="แข็งแรง"/>
+<edge source="ไทยเดนมาร์ค" target="โภชนาการ"/>
+<edge source="ไทยเดนมาร์ค" target="สะดวก"/>
+<edge source="ไทยเดนมาร์ค" target="แกลลอน"/>
+<edge source="ไทยเดนมาร์ค" target="uht"/>
+<edge source="ไทยเดนมาร์ค" target="โรงงาน"/>
+<edge source="ไทยเดนมาร์ค" target="หลอด"/>
+<edge source="ไทยเดนมาร์ค" target="บูด"/>
+<edge source="ไทยเดนมาร์ค" target="แถม"/>
+<edge source="ไทยเดนมาร์ค" target="โอวัลติน"/>
+<edge source="ไทยเดนมาร์ค" target="ไม่อร่อย"/>
+<edge source="ไทยเดนมาร์ค" target="น้ำนม"/>
+<edge source="ไทยเดนมาร์ค" target="โคนม"/>
+<edge source="ไทยเดนมาร์ค" target="ห้างสรรพสินค้า"/>
+<edge source="ไทยเดนมาร์ค" target="ฟิต"/>
+<edge source="ไทยเดนมาร์ค" target="บรรจุภัณฑ์"/>
+<edge source="ไทยเดนมาร์ค" target="หนองโพ"/>
+<edge source="ไทยเดนมาร์ค" target="อาเจียน"/>
+<edge source="ไทยเดนมาร์ค" target="มีประโยชน์"/>
+<edge source="ไทยเดนมาร์ค" target="นมแม่"/>
+<edge source="ไทยเดนมาร์ค" target="นมถั่วเหลือง"/>
+<edge source="ไทยเดนมาร์ค" target="เก็บรักษา"/>
+<edge source="ไทยเดนมาร์ค" target="ท้องตลาด"/>
+<edge source="ไทยเดนมาร์ค" target="คุณหมอ"/>
+<edge source="ไทยเดนมาร์ค" target="เปรี้ยว"/>
+<edge source="ไทยเดนมาร์ค" target="ยูเอชที"/>
+<edge source="ไทยเดนมาร์ค" target="โชคชัย"/>
+<edge source="ไทยเดนมาร์ค" target="โอเมก้า"/>
+<edge source="ไทยเดนมาร์ค" target="มีลูก"/>
+<edge source="ไทยเดนมาร์ค" target="ท้องผูก"/>
+<edge source="ไทยเดนมาร์ค" target="ผิดปกติ"/>
+<edge source="ไทยเดนมาร์ค" target="พระราชดำริ"/>
+<edge source="ชง" target="โฟร์โมสต์"/>
+<edge source="อร่อย" target="ดัชมิลล์"/>
+<edge source="อร่อย" target="โฟร์โมสต์"/>
+<edge source="อร่อย" target="โชคชัย"/>
+<edge source="อร่อย" target="แดรี่โฮม"/>
+<edge source="อร่อย" target="เอ็มมิลค์"/>
+<edge source="ดื่มนม" target="ดัชมิลล์"/>
+<edge source="ดื่มนม" target="โฟร์โมสต์"/>
+<edge source="นมโค" target="ดัชมิลล์"/>
+<edge source="นมโค" target="โฟร์โมสต์"/>
+<edge source="นมโค" target="โชคชัย"/>
+<edge source="นมกล่อง" target="ดัชมิลล์"/>
+<edge source="นมกล่อง" target="โฟร์โมสต์"/>
+<edge source="นมกล่อง" target="โชคชัย"/>
+<edge source="นมฟรีแลคโตส" target="โชคชัย"/>
+<edge source="นมฟรีแลคโตส" target="เอ็มมิลค์"/>
+<edge source="รสจืด" target="ดัชมิลล์"/>
+<edge source="รสจืด" target="โฟร์โมสต์"/>
+<edge source="รสจืด" target="โชคชัย"/>
+<edge source="รสจืด" target="เอ็มมิลค์"/>
+<edge source="ลูก" target="ดัชมิลล์"/>
+<edge source="ลูก" target="โฟร์โมสต์"/>
+<edge source="น้ำ" target="ดัชมิลล์"/>
+<edge source="น้ำ" target="โฟร์โมสต์"/>
+<edge source="น้ำ" target="โชคชัย"/>
+<edge source="สารอาหาร" target="ดัชมิลล์"/>
+<edge source="สารอาหาร" target="โฟร์โมสต์"/>
+<edge source="ท้องเสีย" target="ดัชมิลล์"/>
+<edge source="ท้องเสีย" target="โฟร์โมสต์"/>
+<edge source="ท้องเสีย" target="โชคชัย"/>
+<edge source="ท้องเสีย" target="เอ็มมิลค์"/>
+<edge source="น้ำตาล" target="ดัชมิลล์"/>
+<edge source="น้ำตาล" target="โฟร์โมสต์"/>
+<edge source="น้ำตาล" target="โชคชัย"/>
+<edge source="น้ำตาล" target="เอ็มมิลค์"/>
+<edge source="กล่อง" target="ดัชมิลล์"/>
+<edge source="กล่อง" target="โฟร์โมสต์"/>
+<edge source="กล่อง" target="โชคชัย"/>
+<edge source="กล่อง" target="เอ็มมิลค์"/>
+<edge source="เท" target="ดัชมิลล์"/>
+<edge source="เท" target="โฟร์โมสต์"/>
+<edge source="เท" target="เอ็มมิลค์"/>
+<edge source="เมจิโกลด์" target="ดัชมิลล์"/>
+<edge source="เมจิโกลด์" target="โฟร์โมสต์"/>
+<edge source="เมจิโกลด์" target="แดรี่โฮม"/>
+<edge source="เมจิโกลด์" target="เอ็มมิลค์"/>
+<edge source="ชา" target="ดัชมิลล์"/>
+<edge source="ดัชมิลล์" target="แบคทีเรีย"/>
+<edge source="ดัชมิลล์" target="แลคโตส"/>
+<edge source="ดัชมิลล์" target="นมแพะ"/>
+<edge source="ดัชมิลล์" target="โรงเรียน"/>
+<edge source="ดัชมิลล์" target="ลอง"/>
+<edge source="ดัชมิลล์" target="ผสม"/>
+<edge source="ดัชมิลล์" target="ราคาถูก"/>
+<edge source="ดัชมิลล์" target="คุณภาพ"/>
+<edge source="ดัชมิลล์" target="นมผง"/>
+<edge source="ดัชมิลล์" target="หาซื้อ"/>
+<edge source="ดัชมิลล์" target="จิตรลดา"/>
+<edge source="ดัชมิลล์" target="ไม่ชอบ"/>
+<edge source="ดัชมิลล์" target="อาหาร"/>
+<edge source="ดัชมิลล์" target="ขับถ่าย"/>
+<edge source="ดัชมิลล์" target="เหม็น"/>
+<edge source="ดัชมิลล์" target="เวย์โปรตีน"/>
+<edge source="ดัชมิลล์" target="แคลเซียม"/>
+<edge source="ดัชมิลล์" target="ท้อง"/>
+<edge source="ดัชมิลล์" target="ออกกำลังกาย"/>
+<edge source="ดัชมิลล์" target="คาร์โบไฮเดรต"/>
+<edge source="ดัชมิลล์" target="วิตามิน"/>
+<edge source="ดัชมิลล์" target="ไขมัน"/>
+<edge source="ดัชมิลล์" target="สุขภาพ"/>
+<edge source="ดัชมิลล์" target="พลังงาน"/>
+<edge source="ดัชมิลล์" target="ผลิต"/>
+<edge source="ดัชมิลล์" target="แม่"/>
+<edge source="ดัชมิลล์" target="ลูกชาย"/>
+<edge source="ดัชมิลล์" target="คุณแม่"/>
+<edge source="ดัชมิลล์" target="ชิม"/>
+<edge source="ดัชมิลล์" target="แคลอรี่"/>
+<edge source="ดัชมิลล์" target="โกโก้"/>
+<edge source="ดัชมิลล์" target="ขนม"/>
+<edge source="ดัชมิลล์" target="ข้าวโพด"/>
+<edge source="ดัชมิลล์" target="ผลไม้"/>
+<edge source="ดัชมิลล์" target="อัลมอนด์"/>
+<edge source="ดัชมิลล์" target="แป้ง"/>
+<edge source="ดัชมิลล์" target="เข้มข้น"/>
+<edge source="ดัชมิลล์" target="ฟองนม"/>
+<edge source="ดัชมิลล์" target="มอคค่า"/>
+<edge source="ดัชมิลล์" target="ลดความอ้วน"/>
+<edge source="ดัชมิลล์" target="นมขวด"/>
+<edge source="ดัชมิลล์" target="แช่"/>
+<edge source="ดัชมิลล์" target="พาสเจอร์ไรส์"/>
+<edge source="ดัชมิลล์" target="โฟร์โมสต์"/>
+<edge source="ดัชมิลล์" target="ตู้เย็น"/>
+<edge source="ดัชมิลล์" target="ติดใจ"/>
+<edge source="ดัชมิลล์" target="วันหมดอายุ"/>
+<edge source="ดัชมิลล์" target="กล้ามเนื้อ"/>
+<edge source="ดัชมิลล์" target="ประโยชน์"/>
+<edge source="ดัชมิลล์" target="แข็งแรง"/>
+<edge source="ดัชมิลล์" target="โภชนาการ"/>
+<edge source="ดัชมิลล์" target="ร้านกาแฟ"/>
+<edge source="ดัชมิลล์" target="สะดวก"/>
+<edge source="ดัชมิลล์" target="uht"/>
+<edge source="ดัชมิลล์" target="ความแตกต่าง"/>
+<edge source="ดัชมิลล์" target="บูด"/>
+<edge source="ดัชมิลล์" target="แถม"/>
+<edge source="ดัชมิลล์" target="ไม่อร่อย"/>
+<edge source="ดัชมิลล์" target="น้ำนม"/>
+<edge source="ดัชมิลล์" target="ห้างสรรพสินค้า"/>
+<edge source="ดัชมิลล์" target="เล่นกล้าม"/>
+<edge source="ดัชมิลล์" target="น้ำเต้าหู้"/>
+<edge source="ดัชมิลล์" target="บรรจุภัณฑ์"/>
+<edge source="ดัชมิลล์" target="หนองโพ"/>
+<edge source="ดัชมิลล์" target="มีประโยชน์"/>
+<edge source="ดัชมิลล์" target="นมถั่วเหลือง"/>
+<edge source="ดัชมิลล์" target="ไฮโปรตีน"/>
+<edge source="ดัชมิลล์" target="ลดราคา"/>
+<edge source="ดัชมิลล์" target="ลดน้ำหนัก"/>
+<edge source="ดัชมิลล์" target="ท้องตลาด"/>
+<edge source="ดัชมิลล์" target="โซเดียม"/>
+<edge source="ดัชมิลล์" target="ไข่ต้ม"/>
+<edge source="ดัชมิลล์" target="เปรี้ยว"/>
+<edge source="ดัชมิลล์" target="คุ้มค่า"/>
+<edge source="ดัชมิลล์" target="รสกาแฟ"/>
+<edge source="ดัชมิลล์" target="มอลต์"/>
+<edge source="ดัชมิลล์" target="ยูเอชที"/>
+<edge source="ดัชมิลล์" target="โชคชัย"/>
+<edge source="ดัชมิลล์" target="บำรุง"/>
+<edge source="ดัชมิลล์" target="รสธรรมชาติ"/>
+<edge source="ดัชมิลล์" target="โอเมก้า"/>
+<edge source="ดัชมิลล์" target="คอเลสเตอรอล"/>
+<edge source="ดัชมิลล์" target="ความคุ้มค่า"/>
+<edge source="ลอง" target="โฟร์โมสต์"/>
+<edge source="ลอง" target="โชคชัย"/>
+<edge source="ผสม" target="โฟร์โมสต์"/>
+<edge source="ผสม" target="โชคชัย"/>
+<edge source="คุณภาพ" target="โฟร์โมสต์"/>
+<edge source="นมผง" target="โฟร์โมสต์"/>
+<edge source="นมผง" target="โชคชัย"/>
+<edge source="หาซื้อ" target="โฟร์โมสต์"/>
+<edge source="หาซื้อ" target="โชคชัย"/>
+<edge source="หาซื้อ" target="แดรี่โฮม"/>
+<edge source="จิตรลดา" target="โฟร์โมสต์"/>
+<edge source="จิตรลดา" target="โชคชัย"/>
+<edge source="จิตรลดา" target="แดรี่โฮม"/>
+<edge source="ไม่ชอบ" target="โฟร์โมสต์"/>
+<edge source="อาหาร" target="โฟร์โมสต์"/>
+<edge source="เวย์โปรตีน" target="เอ็มมิลค์"/>
+<edge source="แคลเซียม" target="โฟร์โมสต์"/>
+<edge source="ท้อง" target="โฟร์โมสต์"/>
+<edge source="ท้อง" target="เอ็มมิลค์"/>
+<edge source="ออกกำลังกาย" target="เอ็มมิลค์"/>
+<edge source="ไขมัน" target="โฟร์โมสต์"/>
+<edge source="ผลิต" target="โฟร์โมสต์"/>
+<edge source="ผลิต" target="โชคชัย"/>
+<edge source="แม่" target="โฟร์โมสต์"/>
+<edge source="ชิม" target="โฟร์โมสต์"/>
+<edge source="ชิม" target="โชคชัย"/>
+<edge source="ชิม" target="เอ็มมิลค์"/>
+<edge source="ขนม" target="โฟร์โมสต์"/>
+<edge source="เข้มข้น" target="โฟร์โมสต์"/>
+<edge source="เข้มข้น" target="โชคชัย"/>
+<edge source="เข้มข้น" target="เอ็มมิลค์"/>
+<edge source="นมขวด" target="โฟร์โมสต์"/>
+<edge source="นมขวด" target="โชคชัย"/>
+<edge source="นมขวด" target="เอ็มมิลค์"/>
+<edge source="ฟอง" target="โฟร์โมสต์"/>
+<edge source="ครีมเทียม" target="โฟร์โมสต์"/>
+<edge source="ครีมเทียม" target="โชคชัย"/>
+<edge source="พาสเจอร์ไรส์" target="โฟร์โมสต์"/>
+<edge source="พาสเจอร์ไรส์" target="โชคชัย"/>
+<edge source="พาสเจอร์ไรส์" target="แดรี่โฮม"/>
+<edge source="โฟร์โมสต์" target="โรงเรียน"/>
+<edge source="โฟร์โมสต์" target="รสกล้วย"/>
+<edge source="โฟร์โมสต์" target="ขับถ่าย"/>
+<edge source="โฟร์โมสต์" target="ความสูง"/>
+<edge source="โฟร์โมสต์" target="วิตามิน"/>
+<edge source="โฟร์โมสต์" target="สุขภาพ"/>
+<edge source="โฟร์โมสต์" target="ลูกชาย"/>
+<edge source="โฟร์โมสต์" target="คุณแม่"/>
+<edge source="โฟร์โมสต์" target="กล้วยหอม"/>
+<edge source="โฟร์โมสต์" target="ผลไม้"/>
+<edge source="โฟร์โมสต์" target="แช่"/>
+<edge source="โฟร์โมสต์" target="ไข่"/>
+<edge source="โฟร์โมสต์" target="ตู้เย็น"/>
+<edge source="โฟร์โมสต์" target="วันหมดอายุ"/>
+<edge source="โฟร์โมสต์" target="โภชนาการ"/>
+<edge source="โฟร์โมสต์" target="ไอศกรีม"/>
+<edge source="โฟร์โมสต์" target="ร้านกาแฟ"/>
+<edge source="โฟร์โมสต์" target="สะดวก"/>
+<edge source="โฟร์โมสต์" target="uht"/>
+<edge source="โฟร์โมสต์" target="โรงงาน"/>
+<edge source="โฟร์โมสต์" target="บูด"/>
+<edge source="โฟร์โมสต์" target="แถม"/>
+<edge source="โฟร์โมสต์" target="ไม่อร่อย"/>
+<edge source="โฟร์โมสต์" target="น้ำนม"/>
+<edge source="โฟร์โมสต์" target="ห้างสรรพสินค้า"/>
+<edge source="โฟร์โมสต์" target="บรรจุภัณฑ์"/>
+<edge source="โฟร์โมสต์" target="ให้นม"/>
+<edge source="โฟร์โมสต์" target="หนองโพ"/>
+<edge source="โฟร์โมสต์" target="มีประโยชน์"/>
+<edge source="โฟร์โมสต์" target="นมถั่วเหลือง"/>
+<edge source="โฟร์โมสต์" target="ลดราคา"/>
+<edge source="โฟร์โมสต์" target="โปรโมชั่น"/>
+<edge source="โฟร์โมสต์" target="รสกาแฟ"/>
+<edge source="โฟร์โมสต์" target="ยูเอชที"/>
+<edge source="โฟร์โมสต์" target="โชคชัย"/>
+<edge source="โฟร์โมสต์" target="กล้วย"/>
+<edge source="โฟร์โมสต์" target="โอเมก้า"/>
+<edge source="โฟร์โมสต์" target="มีลูก"/>
+<edge source="โฟร์โมสต์" target="ท้องผูก"/>
+<edge source="ตู้เย็น" target="โชคชัย"/>
+<edge source="วันหมดอายุ" target="โชคชัย"/>
+<edge source="วันหมดอายุ" target="เอ็มมิลค์"/>
+<edge source="โภชนาการ" target="เอ็มมิลค์"/>
+<edge source="คาว" target="โชคชัย"/>
+<edge source="แกลลอน" target="แดรี่โฮม"/>
+<edge source="uht" target="โชคชัย"/>
+<edge source="แถม" target="เอ็มมิลค์"/>
+<edge source="ห้างสรรพสินค้า" target="โชคชัย"/>
+<edge source="ห้างสรรพสินค้า" target="แดรี่โฮม"/>
+<edge source="ห้างสรรพสินค้า" target="เอ็มมิลค์"/>
+<edge source="น้ำเต้าหู้" target="เอ็มมิลค์"/>
+<edge source="หนองโพ" target="โชคชัย"/>
+<edge source="นมถั่วเหลือง" target="โชคชัย"/>
+<edge source="ถูกปาก" target="โชคชัย"/>
+<edge source="ถูกปาก" target="แดรี่โฮม"/>
+<edge source="ถูกปาก" target="เอ็มมิลค์"/>
+<edge source="โชคชัย" target="เบาหวาน"/>
+<edge source="โชคชัย" target="โรงเรียน"/>
+<edge source="โชคชัย" target="ติดใจ"/>
+<edge source="โชคชัย" target="สะอาด"/>
+<edge source="โชคชัย" target="ออร์แกนิค"/>
+<edge source="โชคชัย" target="โปรโมชั่น"/>
+<edge source="โชคชัย" target="ตั้งครรภ์"/>
+<edge source="โชคชัย" target="แดรี่โฮม"/>
+<edge source="โชคชัย" target="เอ็มมิลค์"/>
+<edge source="โชคชัย" target="ลูกเดือย"/>
+<edge source="รสธรรมชาติ" target="แดรี่โฮม"/>
+<edge source="แดรี่โฮม" target="แลคโตส"/>
+<edge source="แดรี่โฮม" target="แพ้"/>
+<edge source="แดรี่โฮม" target="แคลอรี่"/>
+<edge source="แดรี่โฮม" target="เนย"/>
+<edge source="แดรี่โฮม" target="ธาตุอาหาร"/>
+<edge source="แดรี่โฮม" target="ผู้สูงอายุ"/>
+<edge source="แดรี่โฮม" target="เซ็นทรัล"/>
+<edge source="แดรี่โฮม" target="โครงการหลวง"/>
+<edge source="แดรี่โฮม" target="ออร์แกนิค"/>
+<edge source="แดรี่โฮม" target="มะเร็ง"/>
+<edge source="แดรี่โฮม" target="หายาก"/>
+<edge source="แดรี่โฮม" target="โอเมก้า"/>
+<edge source="แดรี่โฮม" target="ฮอร์โมน"/>
+<edge source="แดรี่โฮม" target="ฟันผุ"/>
+<edge source="แดรี่โฮม" target="สารเคมี"/>
+<edge source="แดรี่โฮม" target="กลาสเฟด"/>
+<edge source="แดรี่โฮม" target="เอ็มมิลค์"/>
+<edge source="แดรี่โฮม" target="ลูกเดือย"/>
+<edge source="แดรี่โฮม" target="แอนตี้ไบโอติก"/>
+<edge source="เอ็มมิลค์" target="เบาหวาน"/>
+<edge source="เอ็มมิลค์" target="แบคทีเรีย"/>
+<edge source="เอ็มมิลค์" target="แลคโตส"/>
+<edge source="เอ็มมิลค์" target="แพ้"/>
+<edge source="เอ็มมิลค์" target="โรงเรียน"/>
+<edge source="เอ็มมิลค์" target="สุขภาพ"/>
+<edge source="เอ็มมิลค์" target="หลังอาหาร"/>
+<edge source="เอ็มมิลค์" target="แคลอรี่"/>
+<edge source="เอ็มมิลค์" target="อัลมอนด์"/>
+<edge source="เอ็มมิลค์" target="ลดความอ้วน"/>
+<edge source="เอ็มมิลค์" target="แช่"/>
+<edge source="เอ็มมิลค์" target="ติดใจ"/>
+<edge source="เอ็มมิลค์" target="ปวดท้อง"/>
+<edge source="เอ็มมิลค์" target="ผู้สูงอายุ"/>
+<edge source="เอ็มมิลค์" target="เล่นกล้าม"/>
+<edge source="เอ็มมิลค์" target="ทำอาหาร"/>
+<edge source="เอ็มมิลค์" target="เพาะกาย"/>
+<edge source="เอ็มมิลค์" target="เซ็นทรัล"/>
+<edge source="เอ็มมิลค์" target="ลดราคา"/>
+<edge source="เอ็มมิลค์" target="ลดน้ำหนัก"/>
+<edge source="เอ็มมิลค์" target="ท้องตลาด"/>
+<edge source="เอ็มมิลค์" target="มะเร็ง"/>
+<edge source="เอ็มมิลค์" target="โปรโมชั่น"/>
+<edge source="เอ็มมิลค์" target="ไข่ต้ม"/>
+<edge source="เอ็มมิลค์" target="ท้องว่าง"/>
+<edge source="เอ็มมิลค์" target="ลำไส้"/>
+<edge source="เอ็มมิลค์" target="ท้องอืด"/>
+<edge source="เอ็มมิลค์" target="ตั้งครรภ์"/>
+<edge source="เอ็มมิลค์" target="ปริมาตร"/>
+<edge source="เอ็มมิลค์" target="มอลต์"/>
+<edge source="เอ็มมิลค์" target="แพ้นม"/>
+<edge source="เอ็มมิลค์" target="บำรุง"/>
+<edge source="เอ็มมิลค์" target="ความคุ้มค่า"/>
+<edge source="เอ็มมิลค์" target="คลอดลูก"/>
+<edge source="เอ็มมิลค์" target="ฮอร์โมน"/>
+<edge source="เอ็มมิลค์" target="ชาไทย"/>
+<edge source="เอ็มมิลค์" target="ซากุระ"/>
+<edge source="เอ็มมิลค์" target="กลาสเฟด"/>
+<edge source="เอ็มมิลค์" target="ฝากท้อง"/>
+</graph></graphml>
