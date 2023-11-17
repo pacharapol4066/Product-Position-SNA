@@ -15,3 +15,11 @@ The entire research process are listed below.
 8. Create network graph
 9. Find community
 10. Validate with external data and experts
+
+![image](https://github.com/pacharapol4066/Product-Position-SNA/assets/26063352/5155a064-b1b5-476e-b975-7bdd958614f7)
+![image](https://github.com/pacharapol4066/Product-Position-SNA/assets/26063352/108cf09e-3da9-4e9b-ad5a-5b985fd01a23)
+![image](https://github.com/pacharapol4066/Product-Position-SNA/assets/26063352/9782a2bb-5183-46a6-bc12-26020e249732)
+![image](https://github.com/pacharapol4066/Product-Position-SNA/assets/26063352/75bce64a-a164-46c2-9809-59150845dd31)
+![image](https://github.com/pacharapol4066/Product-Position-SNA/assets/26063352/ef4cad95-b3b4-4c7b-ac90-d0123d1afe5f)
+
+
